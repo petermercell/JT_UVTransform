@@ -1,13 +1,6 @@
 # JT_UVTransform for Nuke
 
 This plugin adds a node that allows you to apply simple transforms to the UV coordinates of the input meshes
-
-## Building the plugins
-
-Go to the src directory, and there:
-
-	make -f Makefile.mac NDKDIR=/Applications/Nuke6.3v1/Nuke6.3v1.app/Contents/MacOS # for MacOS
-	make -f Makefile.lin NDKDIR=/mnt/server/thefoundry/Nuke6.3v1/Nuke6.3v1 # for Linux
  
 ## Testing the plugin
 
